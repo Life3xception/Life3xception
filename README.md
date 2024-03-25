@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Life3xception
 - 👀 I’m interested in software developing and cybersecurity
-- 🌱 I’m currently learning cybersecurity while studying at University
+- 🌱 I’m currently learning CS and cybersecurity while studying at University
 - 📫 You can reach out to me at life3xception@proton.me
 
 <!---
